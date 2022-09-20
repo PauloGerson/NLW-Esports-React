@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
+
+ # Página da NLW Sport com React
+
+![preview](./github/Screenshot_1.png)
+
+
+Projeto construído do evento Next Level Week da Rocketsear com React.
+
+## `npm start`
+
+Executa a aplicação no modo de desenvolvimento.
+Abra [http://localhost:3000](http://localhost:3000) para vizualizar em seu navegador.
+
+# 🔧 Tecnologias
+
+- React JS
+- GIT e Github
+
+# ❤ Contato
+
+paulogerson81@gmail.com
