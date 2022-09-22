@@ -56,7 +56,7 @@ const socialListData =[
     },
     {
         url:"",
-        imgUrl: "/assets/Instagram.svg",
+        imgUrl: "/assets/instagram.svg",
         alt: "Imagem do Instagram"
     },
     {
